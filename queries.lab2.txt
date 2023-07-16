@@ -1,0 +1,9 @@
+Scotland
+Window
+replacing
+condemning
+income OR taxes
+income AND NOT taxes
+"income taxes"
+#10(income, taxes)
+"middle east" AND peace
